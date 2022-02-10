@@ -26,5 +26,6 @@ btn.addEventListener('click', function () {
     }
 })
 
+// for Copyright section
 year = document.getElementById('year')
 year.innerText = new Date().getFullYear()

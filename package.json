@@ -1,0 +1,24 @@
+{
+  "name": "night-mode",
+  "version": "1.0.0",
+  "description": "A simple webpage showing analogy of dark-light modes.",
+  "main": "intex.html",
+  "homepage": "https://prajeshElEvEn.github.io/night-mode",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prajeshElEvEn/night-mode.git"
+  },
+  "author": "eleven",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prajeshElEvEn/night-mode/issues"
+  }
+}
