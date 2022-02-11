@@ -5,7 +5,7 @@ A simple webpage to showcase the basic analogy of dark & light modes.
 ## Resouces
 
 - HTML
-- CSS
+- SCSS
 - JS
 
 ## Hosting
